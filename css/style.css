@@ -502,6 +502,7 @@ section {
     max-height: 50vh;
     padding: 1em;
     overflow: hidden;
+    max-width: stretch;
     
 }
 
