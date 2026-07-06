@@ -587,7 +587,7 @@ section {
 
 .accordionItem.active .accordionContent {
 
-    max-height: 110px;
+    max-height: fit-content;
     /* Adjust as needed */
     opacity: 1;
     padding: 1em;
