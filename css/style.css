@@ -899,7 +899,7 @@ section {
     align-items: center;
     padding: 0.25em 0.75em;
     border-radius: 8px;
-    background-color: var(--bg2);
+    background-color: var(--primarycard);
     border: 1px solid var(--stroke);
     color: var(--extraDark);
     width: fit-content;
