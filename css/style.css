@@ -989,24 +989,6 @@ section {
 }
 
 
-@media(max-width:768px){
-
-    .creativeJourney{
-        padding:4em 0;
-        gap:2em;
-    }
-
-    .videoGrid{
-        grid-template-columns:1fr;
-    }
-
-    .playButton{
-        width:60px;
-        height:60px;
-        font-size:22px;
-    }
-
-}
 
 /* ----------------------------------  Layouting */
 
@@ -1381,4 +1363,22 @@ section {
         order: -1;
         max-width: 20em;
     }
+
+    .creativeJourney{
+        padding:4em 0;
+        gap:2em;
+    }
+
+    .videoGrid{
+        grid-template-columns:1fr;
+    }
+
+    .playButton{
+        width:60px;
+        height:60px;
+        font-size:22px;
+    }
+
+
+
 }
